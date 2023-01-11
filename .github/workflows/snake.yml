@@ -1,5 +1,5 @@
 name: Generate Datas
-permissions: read-all|write-all
+permissions: write-all
 
 on:
   schedule: # execute every 6 hours
