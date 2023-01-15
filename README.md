@@ -4,11 +4,11 @@
 - 📖 I'm studying Javascript, TypeScript, React and NodeJs
 - ⚡ Fun fact: I was addicted to Dota 2, where I played in the Brazilian semi-pro scene.
 
-<div align="center">
+/*<div align="center">
   <a href="https://github.com/fontanettiwilliam">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fontanettiwilliam&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontanettiwilliam&layout=compact&langs_count=16&theme=aura"/>
-</div>
+</div>*/
   
 <div style="display: inline_block"><br>
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
